@@ -6,7 +6,7 @@
 
 **Engineering Adaptive Performance**
 
-[![Release](https://img.shields.io/github/v/release/athryxlab/community?color=00E5FF&label=Release&style=flat-square)](https://github.com/AthryxLab/athryx-community/releases)
+[![Release](https://img.shields.io/github/v/release/AthryxLab/athryx-community?color=00E5FF&label=Release&style=flat-square)](https://github.com/AthryxLab/athryx-community/releases)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)](https://athryxlab.com)
 [![Discussions](https://img.shields.io/github/discussions/athryxlab/community?color=6C5CE7&style=flat-square)](https://github.com/AthryxLab/athryx-community/discussions)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)](#license)
