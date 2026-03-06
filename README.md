@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Logo placeholder — replace with your actual logo asset -->
-<img src="https://raw.githubusercontent.com/athryxlab/.github/main/assets/logo.svg" alt="Athryx Logo" width="64" height="64" />
+<img src="./assets/logo.png" alt="Athryx Lab" width="160" />
 
 # Athryx
 
 **Engineering Adaptive Performance**
 
 [![Release](https://img.shields.io/github/v/release/athryxlab/community?color=00E5FF&label=Release&style=flat-square)](https://github.com/athryxlab/community/releases)
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)](https://athryx.ai)
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)](https://athryxlab.com)
 [![Discussions](https://img.shields.io/github/discussions/athryxlab/community?color=6C5CE7&style=flat-square)](https://github.com/athryxlab/community/discussions)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)](#license)
 
-[**Try Athryx →**](https://athryx.ai) · [**Discussions**](https://github.com/athryxlab/community/discussions) · [**Roadmap**](#roadmap) · [**Release Notes**](https://github.com/athryxlab/community/releases)
+[**Try Athryx →**](https://athryxlab.com) · [**Discussions**](https://github.com/athryxlab/community/discussions) · [**Roadmap**](#roadmap) · [**Release Notes**](https://github.com/athryxlab/community/releases)
 
 </div>
 
@@ -135,10 +134,10 @@ Athryx is built with a modern, production-grade stack.
 
 |                    |                                                |
 | ------------------ | ---------------------------------------------- |
-| **App**            | [athryx.ai](https://athryx.ai)                 |
-| **Blog**           | [athryx.ai/blog](https://athryx.ai/blog)       |
-| **Privacy Policy** | [athryx.ai/privacy](https://athryx.ai/privacy) |
-| **Terms of Use**   | [athryx.ai/terms](https://athryx.ai/terms)     |
+| **App**            | [athryxlab.com](https://athryxlab.com)                 |
+| **Blog**           | [athryxlab.com/blog](https://athryxlab.com/blog)       |
+| **Privacy Policy** | [athryxlab.com/privacy](https://athryxlab.com/privacy) |
+| **Terms of Use**   | [athryxlab.com/terms](https://athryxlab.com/terms)     |
 
 ---
 
@@ -154,6 +153,6 @@ This community repository exists solely for public discussion, feedback, and rel
 
 Built with precision for athletes who demand more.
 
-**[athryx.ai](https://athryx.ai)**
+**[athryxlab.com](https://athryxlab.com)**
 
 </div>
