@@ -6,12 +6,12 @@
 
 **Engineering Adaptive Performance**
 
-[![Release](https://img.shields.io/github/v/release/athryxlab/community?color=00E5FF&label=Release&style=flat-square)](https://github.com/athryxlab/community/releases)
+[![Release](https://img.shields.io/github/v/release/athryxlab/community?color=00E5FF&label=Release&style=flat-square)](https://github.com/AthryxLab/athryx-community/releases)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)](https://athryxlab.com)
-[![Discussions](https://img.shields.io/github/discussions/athryxlab/community?color=6C5CE7&style=flat-square)](https://github.com/athryxlab/community/discussions)
+[![Discussions](https://img.shields.io/github/discussions/athryxlab/community?color=6C5CE7&style=flat-square)](https://github.com/AthryxLab/athryx-community/discussions)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)](#license)
 
-[**Try Athryx →**](https://athryxlab.com) · [**Discussions**](https://github.com/athryxlab/community/discussions) · [**Roadmap**](#roadmap) · [**Release Notes**](https://github.com/athryxlab/community/releases)
+[**Try Athryx →**](https://athryxlab.com) · [**Discussions**](https://github.com/AthryxLab/athryx-community/discussions) · [**Roadmap**](#roadmap) · [**Release Notes**](https://github.com/AthryxLab/athryx-community/releases)
 
 </div>
 
@@ -66,7 +66,7 @@ Your data is never sold or shared with third parties. Infrastructure is hosted i
 
 ## Roadmap
 
-> For the detailed roadmap, participate in [Discussions → Roadmap](https://github.com/athryxlab/community/discussions/categories/roadmap).
+> For the detailed roadmap, participate in [Discussions → Roadmap](https://github.com/AthryxLab/athryx-community/discussions/categories/roadmap).
 
 ```
 2026
@@ -95,11 +95,11 @@ Your data is never sold or shared with third parties. Infrastructure is hosted i
 
 ## Releases
 
-All releases are documented in the [**Releases**](https://github.com/athryxlab/community/releases) tab with full changelogs.
+All releases are documented in the [**Releases**](https://github.com/AthryxLab/athryx-community/releases) tab with full changelogs.
 
 | Version                                                              | Date     | Highlights                                           |
 | -------------------------------------------------------------------- | -------- | ---------------------------------------------------- |
-| [v1.0.0](https://github.com/athryxlab/community/releases/tag/v1.0.0) | Mar 2026 | Initial public release — Core + Intelligence modules |
+| [v1.0.0](https://github.com/AthryxLab/athryx-community/releases/tag/v1.0.0) | Mar 2026 | Initial public release — Core + Intelligence modules |
 
 ---
 
@@ -107,16 +107,16 @@ All releases are documented in the [**Releases**](https://github.com/athryxlab/c
 
 This repository is the **public home for Athryx discussions**. Whether you have a feature request, found a bug, want to share feedback, or just want to talk training — this is the place.
 
-### [Open a Discussion →](https://github.com/athryxlab/community/discussions)
+### [Open a Discussion →](https://github.com/AthryxLab/athryx-community/discussions)
 
 | Category                                                                                        | Purpose                                               |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 💡 [Ideas](https://github.com/athryxlab/community/discussions/categories/ideas)                 | Propose new features or improvements                  |
-| 🗺️ [Roadmap](https://github.com/athryxlab/community/discussions/categories/roadmap)             | Follow and discuss what's coming next                 |
-| 🐛 [Bug Reports](https://github.com/athryxlab/community/discussions/categories/bug-reports)     | Report issues you've encountered in the app           |
-| 🙋 [Q&A](https://github.com/athryxlab/community/discussions/categories/q-a)                     | Ask questions about using Athryx                      |
-| 📣 [Announcements](https://github.com/athryxlab/community/discussions/categories/announcements) | Official news and release announcements               |
-| 🏃 [Training](https://github.com/athryxlab/community/discussions/categories/training)           | Discuss training methods, physiology, and performance |
+| 💡 [Ideas](https://github.com/AthryxLab/athryx-community/discussions/categories/ideas)                 | Propose new features or improvements                  |
+| 🗺️ [Roadmap](https://github.com/AthryxLab/athryx-community/discussions/categories/roadmap)             | Follow and discuss what's coming next                 |
+| 🐛 [Bug Reports](https://github.com/AthryxLab/athryx-community/discussions/categories/bug-reports)     | Report issues you've encountered in the app           |
+| 🙋 [Q&A](https://github.com/AthryxLab/athryx-community/discussions/categories/q-a)                     | Ask questions about using Athryx                      |
+| 📣 [Announcements](https://github.com/AthryxLab/athryx-community/discussions/categories/announcements) | Official news and release announcements               |
+| 🏃 [Training](https://github.com/AthryxLab/athryx-community/discussions/categories/training)           | Discuss training methods, physiology, and performance |
 
 ---
 
