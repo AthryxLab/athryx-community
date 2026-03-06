@@ -135,7 +135,7 @@ Athryx is built with a modern, production-grade stack.
 |                    |                                                |
 | ------------------ | ---------------------------------------------- |
 | **App**            | [athryxlab.com](https://athryxlab.com)                 |
-| **Blog**           | [athryxlab.com/blog](https://athryxlab.com/blog)       |
+| **Cockpit**        | [athryxlab.com/cockpit](https://athryxlab.com/cockpit) |
 | **Privacy Policy** | [athryxlab.com/privacy](https://athryxlab.com/privacy) |
 | **Terms of Use**   | [athryxlab.com/terms](https://athryxlab.com/terms)     |
 
