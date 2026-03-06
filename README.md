@@ -8,7 +8,7 @@
 
 [![Release](https://img.shields.io/github/v/release/AthryxLab/athryx-community?color=00E5FF&label=Release&style=flat-square)](https://github.com/AthryxLab/athryx-community/releases)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)](https://athryxlab.com)
-[![Discussions](https://img.shields.io/github/discussions/athryxlab/community?color=6C5CE7&style=flat-square)](https://github.com/AthryxLab/athryx-community/discussions)
+[![Discussions](https://img.shields.io/github/discussions/AthryxLab/athryx-community?color=6C5CE7&style=flat-square)](https://github.com/AthryxLab/athryx-community/discussions)
 [![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)](#license)
 
 [**Try Athryx →**](https://athryxlab.com) · [**Discussions**](https://github.com/AthryxLab/athryx-community/discussions) · [**Roadmap**](#roadmap) · [**Release Notes**](https://github.com/AthryxLab/athryx-community/releases)
@@ -97,8 +97,8 @@ Your data is never sold or shared with third parties. Infrastructure is hosted i
 
 All releases are documented in the [**Releases**](https://github.com/AthryxLab/athryx-community/releases) tab with full changelogs.
 
-| Version                                                              | Date     | Highlights                                           |
-| -------------------------------------------------------------------- | -------- | ---------------------------------------------------- |
+| Version                                                                     | Date     | Highlights                                           |
+| --------------------------------------------------------------------------- | -------- | ---------------------------------------------------- |
 | [v1.0.0](https://github.com/AthryxLab/athryx-community/releases/tag/v1.0.0) | Mar 2026 | Initial public release — Core + Intelligence modules |
 
 ---
@@ -109,8 +109,8 @@ This repository is the **public home for Athryx discussions**. Whether you have 
 
 ### [Open a Discussion →](https://github.com/AthryxLab/athryx-community/discussions)
 
-| Category                                                                                        | Purpose                                               |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Category                                                                                               | Purpose                                               |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
 | 💡 [Ideas](https://github.com/AthryxLab/athryx-community/discussions/categories/ideas)                 | Propose new features or improvements                  |
 | 🗺️ [Roadmap](https://github.com/AthryxLab/athryx-community/discussions/categories/roadmap)             | Follow and discuss what's coming next                 |
 | 🐛 [Bug Reports](https://github.com/AthryxLab/athryx-community/discussions/categories/bug-reports)     | Report issues you've encountered in the app           |
@@ -132,8 +132,8 @@ Athryx is built with a modern, production-grade stack.
 
 ## Links
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
+|                    |                                                        |
+| ------------------ | ------------------------------------------------------ |
 | **App**            | [athryxlab.com](https://athryxlab.com)                 |
 | **Cockpit**        | [athryxlab.com/cockpit](https://athryxlab.com/cockpit) |
 | **Privacy Policy** | [athryxlab.com/privacy](https://athryxlab.com/privacy) |
