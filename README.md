@@ -50,6 +50,14 @@ A unified view of your training: weekly volume, moving time, workload index, rec
 
 A persistent, data-grounded AI agent that answers questions about your training. It has working memory across sessions — it knows your athlete profile, your current objectives, and your preparation context. Powered by GPT-5.1 via Mastra.
 
+### Weekly Analysis
+
+An AI-generated weekly training report delivered directly on the Cockpit dashboard. Each week, it analyzes your Strava activities in the context of your active objective and preparation phase, covering: weekly volume summary, training load level, fatigue & recovery assessment, and actionable recommendations for the remainder of the week.
+
+### Objectives & Preparation
+
+Define your race goals and track your preparation inside the Cockpit. Set an objective (race type, name, target date, description), attach a preparation plan with weekly distance and long-run targets, and visualize your preparation timeline relative to race day.
+
 ### Activity Intelligence
 
 Drill into any session: heart rate zones, power distribution, pace analysis, elevation, suffer score, and more. Filter your full activity history by sport or date range.
@@ -74,6 +82,8 @@ Your data is never sold or shared with third parties. Infrastructure is hosted i
 │       ─ Strava OAuth integration
 │       ─ Cockpit dashboard
 │       ─ Conversational AI coach with persistent memory
+│       ─ Objectives & preparation tracking
+│       ─ Weekly AI training analysis
 │
 ├── Q2  Athryx Engine (Planned)
 │       ─ Adaptive workout generation
