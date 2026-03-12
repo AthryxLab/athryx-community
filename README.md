@@ -161,6 +161,7 @@ Free articles on the physiology and training mistakes that matter most for endur
 | **Cockpit**        | [athryxlab.com/cockpit](https://athryxlab.com/cockpit) |
 | **Privacy Policy** | [athryxlab.com/privacy](https://athryxlab.com/privacy) |
 | **Terms of Use**   | [athryxlab.com/terms](https://athryxlab.com/terms)     |
+| **Support**        | [athryxlab.com/support](https://athryxlab.com/support) |
 
 ---
 
