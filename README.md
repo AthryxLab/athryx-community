@@ -29,14 +29,14 @@ Where most tools count your kilometers, Athryx models your physiology. It ingest
 
 ## Modules & Status
 
-| Module                  | Description                                                             |   Status   |
-| ----------------------- | ----------------------------------------------------------------------- | :--------: |
-| **Athryx Core**         | Secure sign-in, account management, Cockpit dashboard                   |  ✅ Live   |
-| **Athryx Intelligence** | AI-assisted training analysis, fatigue monitoring, conversational coach |  ✅ Live   |
-| **Athryx Engine**       | Adaptive workout generation, load-based recommendations                 | 🔜 Planned |
-| **Athryx Recovery**     | HRV and fatigue modeling                                                | 🔜 Planned |
-| **Athryx Insight**      | Advanced analytics and long-term trends                                 | 🔜 Planned |
-| **Athryx Protocols**    | Recovery and nutrition knowledge base                                   | 🔜 Planned |
+| Module                  | Description                                                                                              |   Status   |
+| ----------------------- | -------------------------------------------------------------------------------------------------------- | :--------: |
+| **Athryx Core**         | Main interface: secure sign-in, account management, and dashboard access                                 |  ✅ Live   |
+| **Athryx Intelligence** | AI-assisted analysis of training history to identify patterns, monitor fatigue, and improve structure     |  ✅ Live   |
+| **Athryx Insight**      | Advanced analytics, trends, and key metrics at a glance                                                  |  🔶 Beta   |
+| **Athryx Protocols**    | AI-generated nutrition plans calibrated to your training load, sport type, and daily energy needs        |  🔶 Beta   |
+| **Athryx Engine**       | Adaptive workout generation and load-based recommendations                                               | 🔜 Planned |
+| **Athryx Recovery**     | HRV and fatigue modeling for smarter recovery decisions                                                  | 🔜 Planned |
 
 ---
 
@@ -85,20 +85,20 @@ Your data is never sold or shared with third parties. Infrastructure is hosted i
 │       ─ Objectives & preparation tracking
 │       ─ Weekly AI training analysis
 │
-├── Q2  Athryx Engine (Planned)
+├── Q2  Athryx Insight + Protocols (Beta)
+│       ─ Advanced analytics and long-term trends
+│       ─ AI-generated nutrition plans
+│       ─ Training load–calibrated daily energy targets
+│
+├── Q3  Athryx Engine (Planned)
 │       ─ Adaptive workout generation
 │       ─ Load-based weekly structure recommendations
 │       ─ Readiness scoring
 │
-├── Q3  Athryx Recovery (Planned)
-│       ─ HRV integration
-│       ─ Fatigue curve modeling
-│       ─ Recovery-adjusted training advice
-│
-└── Q4  Athryx Insight + Protocols (Planned)
-        ─ Long-term trend analytics
-        ─ Season periodization view
-        ─ Curated recovery and nutrition protocols
+└── Q4  Athryx Recovery (Planned)
+        ─ HRV integration
+        ─ Fatigue curve modeling
+        ─ Recovery-adjusted training advice
 ```
 
 ---
